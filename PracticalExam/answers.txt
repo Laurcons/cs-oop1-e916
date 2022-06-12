@@ -1,0 +1,13 @@
+1,1,alex,alo,4
+2,1,cristina,hey cf,0
+3,2,cristina,hey cfx,0
+4,3,cristina,wooo,0
+5,4,cristina,aaaa,0
+6,1,cristina,aolo,2
+7,1,alex,gg,3
+8,1,cristina,weee,6
+9,4,alex,so listen to this,0
+10,3,bubu,that makes a ton of sense tbh,3
+11,3,cristina,aaAAAA,0
+12,3,cristina,fff,0
+13,5,cristina,look at how lovely this all works,0
